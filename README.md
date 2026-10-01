@@ -10,7 +10,7 @@
 <th>Project List</th>
 </tr>
   <tr>
-    <td>📌 Project 1</td>
+    <td>⌛ Project 1</td>
   </tr>
   <tr>
     <td>📌 Project 2</td>
