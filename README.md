@@ -13,7 +13,7 @@
     <td>⌛ Project 1</td>
   </tr>
   <tr>
-    <td>📌 Project 2</td>
+    <td>☑️ Project 2</td>
   </tr>
 </table>
 
